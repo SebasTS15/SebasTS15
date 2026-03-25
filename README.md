@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=SebasTS15)
 
-### 👋 Hola, soy Joan Sebastian Tunubala Sanchez
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola, soy Joan Sebastian Tunubala Sanchez
 
 Soy estudiante de Ingeniería de Sistemas en la Universidad de San Buenaventura, apasionado por el desarrollo de software y en constante aprendizaje.
 
