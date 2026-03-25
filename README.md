@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SebasTS15)
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   Hola, soy Joan Sebastian Tunubala Sanchez
